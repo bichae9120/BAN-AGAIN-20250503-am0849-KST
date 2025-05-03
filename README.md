@@ -36,6 +36,8 @@ After mentioning uploading a capture of the conversation to X in the GPT chat ro
 
 2025-05-03 12:19 KST Ban again
 
+2025-05-03 12:20 KST Ban lifted again
+
 
 
 
